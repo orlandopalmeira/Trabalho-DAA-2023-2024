@@ -16,7 +16,7 @@
 
 </div>
 
-### Nota: X / 20
+### Nota: 16.3 / 20
 
 <h3><i>Keywords</i></h3>
 DAA, Dados e Aprendizagem Automática , dados e aprendizagem automatica, uminho, miei, mei, engenharia informatica
